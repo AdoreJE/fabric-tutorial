@@ -101,3 +101,4 @@ mode_modules
 connection-org1.json
 connection-org2.json
 /fabric-application-javascript/node_modules/
+/fabric-application-java/build/
